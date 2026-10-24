@@ -9,7 +9,7 @@
 公開URL(GitHub Pages)をスマホのブラウザで開くだけで使えます。
 「ホーム画面に追加」するとアプリのように使えます。
 
-> URL: `https://(ユーザー名).github.io/(リポジトリ名)/`
+> URL: `(https://shundc2.github.io/bowling-line-simulator/)`
 
 ## 主な機能
 
